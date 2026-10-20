@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/klen/aiorest-client/commit/01ecced2be9e6a0ee6f15348d10f901b6b65c3ed",
       "git:hexsha": "01ecced2be9e6a0ee6f15348d10f901b6b65c3ed",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.2.2"
     },
     {
