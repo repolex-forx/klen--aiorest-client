@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/klen/aiorest-client/commit/01ecced2be9e6a0ee6f15348d10f901b6b65c3ed",
       "git:hexsha": "01ecced2be9e6a0ee6f15348d10f901b6b65c3ed",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.2.2"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.2.2",
+      "repolex:parsedAt": "2026-10-20T21:27:34.730157+00:00"
     },
     {
       "@id": "https://repolex.ai/r/klen/aiorest-client/commit/b47fabe8142f0fe8639218a07feba7afc75441ae",
