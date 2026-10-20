@@ -1,0 +1,11 @@
+{
+  "org": "klen",
+  "repo": "aiorest-client",
+  "versions": [
+    {
+      "commit": "01ecced2be9e6a0ee6f15348d10f901b6b65c3ed",
+      "tag": "v0.2.2",
+      "parsed_at": "2026-10-20T21:27:34.730626+00:00"
+    }
+  ]
+}
